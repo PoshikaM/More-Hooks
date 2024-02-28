@@ -1,0 +1,20 @@
+*{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#all{
+  background-color: #fbdcb9;
+}
+
+.btn{
+  margin-top: 20px;
+}
+
+input{
+  width: 350px;
+  height: 30px;
+  font-size: 25px;
+}
